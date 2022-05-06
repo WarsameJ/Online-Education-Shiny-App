@@ -15,7 +15,7 @@ shiny app link : [click here](https://s8q0d2-warsame-jama.shinyapps.io/Shiny-App
   <li>  Download the Education folder.
   <li>  Open the R Project.
   <li>  Run the Shiny Application.
-    
+  <li>  Open ui.R and server.R ( Make sure you open both of them in the Shiny-app.Rproj)
 <ol>
 
 
