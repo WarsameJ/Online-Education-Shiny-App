@@ -9,4 +9,13 @@ shiny app link : [click here](https://s8q0d2-warsame-jama.shinyapps.io/Shiny-App
 
 
 
+# How to re-create the application
+<hr>
+<ol>
+  <li>  Download the Shakespeare folder.
+  <li>  Open the R Project.
+  <li>  Run the Application.
+    
+<ol>
+
 
